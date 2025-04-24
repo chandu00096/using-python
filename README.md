@@ -29,6 +29,23 @@ Everything lives in **`KFC_Hyderabad_Analysis.ipynb`**.
 
 
 ---
+### 📍 Total Revenue by Branch
+![image](https://github.com/user-attachments/assets/e67d88f2-9af3-4afb-9904-9b200e3740e9)
+
+### ⏰ Revenue by Hour of Day
+![image](https://github.com/user-attachments/assets/554981f5-fea4-4686-817b-dcfc8f0832aa)
+
+### 🗓️ Revenue by Day of Week
+![image](https://github.com/user-attachments/assets/134aa747-17cb-40d0-a65a-3cec230e0cd6)
+
+### 💳 Payment Mode Share
+![image](https://github.com/user-attachments/assets/16b05e29-e39b-4874-96a6-28d9ad7bdfa8)
+
+### ⭐ Average Customer Rating by Branch
+![image](https://github.com/user-attachments/assets/b12c9f97-20e0-4243-8525-3063d902056f)
+
+### 🔄 Revenue vs Customer Rating
+![image](https://github.com/user-attachments/assets/0b615e64-e63a-4702-a299-454bd3d57316)
 
 
 ## 🚀 Getting Started
